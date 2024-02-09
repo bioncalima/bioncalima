@@ -1,6 +1,6 @@
 ## Bianca Santos Lima
 
-Programador de Sistemas-(Cursando)
+Programador Web Backend
 
 PostegreSQL, JS, C#, CSS , HTML
 
